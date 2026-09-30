@@ -33,6 +33,7 @@ Upon review of the data, strong correlations were found among 6 previous-season 
 The equation is 100/1+e^-s
 e = a fixed number for conversion found through the data
 -s = sum of player statistics and predetermined weights for the given 6 statistics
+The average equation score is 8.09 for the entire filtered data (all three seasons in the model)
 
 For evaluation purposes, to give a prediction for a given season, the equation uses the previous season's statistics because this is a predictive model. 
 - 2026-27 Season Prediction is based on 2025-26 Season Data
